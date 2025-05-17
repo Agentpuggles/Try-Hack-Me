@@ -121,9 +121,6 @@ Let’s see what we can find using **Dirsearch** and **Gobuster**.
 
 ---
 
-Here’s your final section, formatted in polished, GitHub-friendly Markdown — ideal for a writeup or walkthrough. It captures all the steps, findings, and tone you’ve used, while remaining clear and structured.
-
----
 ## 📬 Contact Page Clue
 
 The website had a "Contact" section that mentioned:
